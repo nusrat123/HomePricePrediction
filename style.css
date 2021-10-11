@@ -1,0 +1,9 @@
+.body
+{
+    margin: 0;
+    padding : 20;
+}
+.output h1{
+    margin-left: 200px;
+    color: red;
+}
